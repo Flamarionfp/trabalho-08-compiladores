@@ -1,0 +1,38 @@
+Posição linha 1: classe caracteres especiais, lexema <?php
+Posição linha 2: classe definição de função, lexema calcularSoma
+Posição linha 2: classe identificadores, lexema $valor1
+Posição linha 2: classe identificadores, lexema $valor2
+Posição linha 2: classe delimitadores, lexema ,
+Posição linha 3: classe delimitadores, lexema {
+Posição linha 4: classe identificadores, lexema $valor3
+Posição linha 4: classe identificadores, lexema $valor1
+Posição linha 4: classe identificadores, lexema $valor2
+Posição linha 4: classe atribuição, lexema =
+Posição linha 4: classe operadores matemáticos, lexema +
+Posição linha 4: classe delimitadores, lexema ;
+Posição linha 6: classe palavras reservadas, lexema return
+Posição linha 6: classe identificadores, lexema $valor3
+Posição linha 6: classe delimitadores, lexema ;
+Posição linha 7: classe delimitadores, lexema }
+Posição linha 9: classe invocação de função, lexema calcularSoma(1, 2);
+Posição linha 9: classe identificadores, lexema $resultado
+Posição linha 9: classe atribuição, lexema =
+Posição linha 9: classe delimitadores, lexema ,
+Posição linha 9: classe delimitadores, lexema ;
+Posição linha 10: classe palavras reservadas, lexema for
+Posição linha 10: classe identificadores, lexema $x
+Posição linha 10: classe identificadores, lexema $resultado
+Posição linha 10: classe atribuição, lexema =
+Posição linha 10: classe operadores matemáticos, lexema +
+Posição linha 10: classe operadores de comparação, lexema <=
+Posição linha 10: classe delimitadores, lexema ;
+Posição linha 10: classe delimitadores, lexema {
+Posição linha 12: classe palavras reservadas, lexema if
+Posição linha 12: classe identificadores, lexema $x
+Posição linha 12: classe operadores de comparação, lexema >
+Posição linha 12: classe delimitadores, lexema {
+Posição linha 13: classe palavras reservadas, lexema print
+Posição linha 13: classe identificadores, lexema $resultado
+Posição linha 13: classe delimitadores, lexema ;
+Posição linha 14: classe delimitadores, lexema }
+Posição linha 15: classe delimitadores, lexema }
